@@ -1,24 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Pooya Labs</title>
-  <desc id="desc">A minimal charcoal and warm ivory identity for Pooya Labs, focused on software, systems, and applied AI.</desc>
+  <desc id="desc">A restrained charcoal and warm ivory identity for Pooya Labs, featuring its folded P monogram.</desc>
   <defs>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#D9D2C4" stroke-opacity=".045" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#202321"/>
-      <stop offset="1" stop-color="#141715"/>
-    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#D9D2C4" stroke-opacity=".045" stroke-width="1"/></pattern>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#202321"/><stop offset="1" stop-color="#141715"/></linearGradient>
   </defs>
   <rect width="1200" height="320" fill="url(#field)"/>
   <rect width="1200" height="320" fill="url(#grid)"/>
   <path d="M70 58H1130M70 262H1130" stroke="#B49A70" stroke-opacity=".42"/>
-  <g transform="translate(78 47) scale(.43)">
-    <path d="M112 72H286C389 72 444 126 444 211C444 297 385 350 286 350H220V426L112 484V72ZM220 158V264H286C332 264 360 246 360 211C360 176 332 158 286 158H220Z" fill="#B49A70" fill-rule="evenodd"/>
+  <g transform="translate(78 54) scale(.43)" fill="#B49A70" fill-rule="evenodd">
+    <path d="M0 0H356C454 0 512 47 512 132C512 214 454 260 359 278L175 402V269L330 174C367 151 378 133 378 111C378 83 358 70 326 70H0Z"/>
+    <path d="M0 135H330L125 255V438L0 512Z"/>
   </g>
   <g fill="#E9E4D9">
-    <text x="300" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="5">POOYA LABS</text>
-    <text x="303" y="193" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4" fill="#B8B5AC">SOFTWARE  /  SYSTEMS  /  APPLIED AI</text>
+    <text x="330" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="5">POOYA LABS</text>
+    <text x="333" y="193" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4" fill="#B8B5AC">SOFTWARE  /  SYSTEMS  /  APPLIED AI</text>
   </g>
   <g font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2" fill="#B49A70">
     <text x="92" y="292">INDEPENDENT ENGINEERING</text>
