@@ -17,7 +17,7 @@
   <g transform="translate(92 102)" fill="none" stroke="#B69B6B" stroke-width="3">
     <path d="M0 0H72V116H0Z"/>
     <path d="M20 91V25H48C66 25 66 53 48 53H20"/>
-    <path d="M48 53L74 91"/>
+
   </g>
   <g fill="#E9E5DC">
     <text x="210" y="155" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="5">POOYA LABS</text>
