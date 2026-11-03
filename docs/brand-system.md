@@ -33,7 +33,7 @@ The brand should feel like a serious independent engineering studio: technically
 | Accent | Aged brass | `#B49A70` |
 | Subtle rule | Brass at low opacity | `#B49A70` |
 
-Use brass sparingly for fine lines, small labels, and a single point of emphasis. It is not a bright highlight color.
+Use brass sparingly for fine lines, small labels, and the monogram. The logo itself stays flat: no metallic texture, 3D bevel, orbit, glow, or enclosing halo. On small screens and in product interfaces, prefer a single-color mark with no effects. For light backgrounds, use deep charcoal instead of brass when contrast requires it.
 
 ## Typography
 
@@ -68,7 +68,7 @@ Avoid:
 ## Asset usage
 
 - `assets/pooya-labs-header.svg`: profile README header.
-- `assets/pooya-labs-mark.svg`: supporting monogram for future brand surfaces.
+- `assets/pooya-labs-mark.svg`: flat, single-color geometric P monogram for favicons, headers, and compact interface placements. Use the SVG as-is on dark surfaces; for light surfaces, change the fill to the approved dark charcoal or use a CSS mask so the mark inherits the interface color.
 - The profile avatar remains Pooya's real photograph.
 
 ## Do not
