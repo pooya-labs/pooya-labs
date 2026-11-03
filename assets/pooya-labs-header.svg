@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Pooya Labs</title>
-  <desc id="desc">A restrained charcoal and warm ivory identity for Pooya Labs, focused on software, systems, and applied AI.</desc>
+  <desc id="desc">A minimal charcoal and warm ivory identity for Pooya Labs, focused on software, systems, and applied AI.</desc>
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#D9D2C4" stroke-opacity=".055" stroke-width="1"/>
+      <path d="M48 0H0V48" fill="none" stroke="#D9D2C4" stroke-opacity=".045" stroke-width="1"/>
     </pattern>
     <linearGradient id="field" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#202321"/>
@@ -12,20 +12,16 @@
   </defs>
   <rect width="1200" height="320" fill="url(#field)"/>
   <rect width="1200" height="320" fill="url(#grid)"/>
-  <path d="M70 58H1130" stroke="#B69B6B" stroke-opacity=".7"/>
-  <path d="M70 262H1130" stroke="#B69B6B" stroke-opacity=".42"/>
-  <g transform="translate(92 102)" fill="none" stroke="#B69B6B" stroke-width="3">
-    <path d="M0 0H72V116H0Z"/>
-    <path d="M20 91V25H48C66 25 66 53 48 53H20"/>
-
+  <path d="M70 58H1130M70 262H1130" stroke="#B49A70" stroke-opacity=".42"/>
+  <g transform="translate(78 47) scale(.43)">
+    <path d="M112 72H286C389 72 444 126 444 211C444 297 385 350 286 350H220V426L112 484V72ZM220 158V264H286C332 264 360 246 360 211C360 176 332 158 286 158H220Z" fill="#B49A70" fill-rule="evenodd"/>
   </g>
-  <g fill="#E9E5DC">
-    <text x="210" y="155" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="5">POOYA LABS</text>
-    <text x="213" y="196" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4" fill="#B8B5AC">SOFTWARE  /  SYSTEMS  /  APPLIED AI</text>
+  <g fill="#E9E4D9">
+    <text x="300" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="5">POOYA LABS</text>
+    <text x="303" y="193" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4" fill="#B8B5AC">SOFTWARE  /  SYSTEMS  /  APPLIED AI</text>
   </g>
-  <g font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2" fill="#B69B6B">
+  <g font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2" fill="#B49A70">
     <text x="92" y="292">INDEPENDENT ENGINEERING</text>
     <text x="1108" y="292" text-anchor="end">EST. 2026</text>
   </g>
-  <path d="M1030 105h78M1069 86v38" stroke="#B69B6B" stroke-opacity=".6" stroke-width="1"/>
 </svg>
