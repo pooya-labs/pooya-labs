@@ -5,20 +5,12 @@
 
 <div align="center">
 
-# Pooya Goodarzi
+<img src="assets/pooya-labs-header.svg" alt="Pooya Labs — Software, Systems, Applied AI" width="100%" />
 
-### Software Engineer in Progress · AI Engineering · Product Builder
+**Pooya Goodarzi**  
+Software Engineering · AI Engineering · Product Development
 
-**Building thoughtful software, intelligent systems, and useful digital products.**  
-**ساخت نرم‌افزارهای سنجیده، سامانه‌های هوشمند و محصولات دیجیتال کاربردی.**
-
-<br/>
-
-<a href="https://t.me/pooyayee"><img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://www.instagram.com/_p.ooya/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://github.com/pooya-labs"><img src="https://img.shields.io/badge/GitHub-Pooya--Labs-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/>
+[GitHub](https://github.com/pooya-labs) · [Telegram](https://t.me/pooyayee) · [Instagram](https://www.instagram.com/_p.ooya/)
 
 [English](#english) · [فارسی](#فارسی)
 
@@ -30,14 +22,14 @@
 
 ## About
 
-I'm Pooya, a Computer Engineering student interested in **AI Engineering, software development, and building digital products**. I enjoy taking ideas from an initial concept to a working, documented, and testable implementation.
+I’m Pooya Goodarzi, a Computer Engineering student focused on **software engineering, AI engineering, and digital product development**.
 
-My work spans product-focused web applications, distributed systems, developer tools, observability, and practical AI-oriented engineering. I value clear architecture, thoughtful interfaces, reliable behavior, and honest documentation of what is implemented versus what is still experimental.
+I design and build software across web products, backend services, distributed systems, observability, and applied AI. My work is guided by sound architecture, deliberate technical decisions, maintainability, and implementation that can be tested and inspected. I document project status and constraints explicitly; prototypes are presented as prototypes, not production systems.
 
-- **Focus:** AI Engineering · Software Engineering · Product Development
-- **Interests:** Distributed Systems · Backend Architecture · Developer Experience · Applied AI
-- **Approach:** Build incrementally, test continuously, document decisions, and keep scope intentional.
-- **Currently building:** A portfolio of independent engineering projects and experiments.
+- **Core focus:** Software Engineering · AI Engineering · Product Development
+- **Technical interests:** Distributed Systems · Backend Architecture · Applied AI · Developer Tools
+- **Engineering priorities:** Architecture, reliability, testing, security boundaries, and long-term maintainability
+- **Current direction:** Building independent software products and strengthening the engineering behind them.
 
 ## Featured projects
 
@@ -61,7 +53,7 @@ A selection of projects I design and develop. Each repository documents its curr
 - **Systems:** distributed execution, observability, reliability, and data boundaries.
 - **Product Engineering:** responsive interfaces, accessibility, localization, and end-to-end user journeys.
 
-> I prefer demonstrating engineering through working projects, transparent trade-offs, and reproducible results—not through a long list of unverified claims.
+> The work should speak for itself: clear implementation, documented trade-offs, and verifiable results.
 
 ## Connect
 
@@ -75,14 +67,14 @@ A selection of projects I design and develop. Each repository documents its curr
 
 ## درباره من
 
-من پویا هستم؛ دانشجوی مهندسی کامپیوتر و علاقه‌مند به **مهندسی هوش مصنوعی، توسعه نرم‌افزار و ساخت محصولات دیجیتال**. از تبدیل ایده‌های اولیه به پیاده‌سازی‌های واقعی، مستند و قابل‌آزمایش لذت می‌برم.
+من پویا گودرزی، دانشجوی مهندسی کامپیوتر هستم و تمرکزم بر **مهندسی نرم‌افزار، مهندسی هوش مصنوعی و توسعه محصولات دیجیتال** است.
 
-حوزه فعالیت و تجربه‌های پروژه‌ای من از توسعه محصولات وب و سامانه‌های توزیع‌شده تا ابزارهای توسعه‌دهندگان، مشاهده‌پذیری و کاربردهای عملی هوش مصنوعی را در بر می‌گیرد. برای من معماری شفاف، رابط کاربری سنجیده، رفتار قابل‌اعتماد و مستندسازی صادقانه اهمیت زیادی دارد؛ به همین دلیل قابلیت‌های پیاده‌سازی‌شده را از بخش‌های آزمایشی و برنامه‌های آینده جدا می‌کنم.
+در پروژه‌هایم روی طراحی و پیاده‌سازی نرم‌افزارهای تحت وب، سرویس‌های بک‌اند، سامانه‌های توزیع‌شده، ابزارهای مشاهده‌پذیری و کاربردهای عملی هوش مصنوعی کار می‌کنم. اصول فنی موردتوجه من معماری اصولی، تصمیم‌گیری مهندسی، قابلیت نگهداری، آزمون‌پذیری و شفافیت در بیان وضعیت واقعی هر پروژه است. نمونه‌های اولیه را به‌عنوان محصول آماده استفاده معرفی نمی‌کنم و محدودیت‌ها و مراحل باقی‌مانده را مستند نگه می‌دارم.
 
-- **تمرکز:** مهندسی هوش مصنوعی · مهندسی نرم‌افزار · توسعه محصول
-- **علاقه‌مندی‌ها:** سامانه‌های توزیع‌شده · معماری بک‌اند · تجربه توسعه‌دهنده · هوش مصنوعی کاربردی
-- **روش کار:** توسعه مرحله‌ای، آزمایش مستمر، ثبت تصمیم‌های فنی و حفظ تمرکز محصول
-- **فعالیت فعلی:** توسعه مجموعه‌ای از پروژه‌های مستقل مهندسی و تجربه‌های عملی
+- **حوزه‌های اصلی:** مهندسی نرم‌افزار · مهندسی هوش مصنوعی · توسعه محصول
+- **زمینه‌های فنی:** سامانه‌های توزیع‌شده · معماری بک‌اند · هوش مصنوعی کاربردی · ابزارهای توسعه
+- **اولویت‌های مهندسی:** معماری، قابلیت اطمینان، آزمون، امنیت و نگهداری بلندمدت
+- **مسیر فعلی:** طراحی و توسعه محصولات نرم‌افزاری مستقل و ارتقای کیفیت فنی آن‌ها.
 
 ## پروژه‌های منتخب
 
@@ -106,7 +98,7 @@ A selection of projects I design and develop. Each repository documents its curr
 - **مهندسی سیستم‌ها:** اجرای توزیع‌شده، مشاهده‌پذیری، قابلیت اطمینان و مرزبندی داده‌ها.
 - **مهندسی محصول:** رابط واکنش‌گرا، دسترس‌پذیری، بومی‌سازی و طراحی جریان کامل کاربر.
 
-> ترجیح می‌دهم توانایی مهندسی را با پروژه‌های قابل‌اجرا، تصمیم‌های فنی شفاف و نتایج قابل‌تکرار نشان بدهم؛ نه با فهرستی طولانی از ادعاهای تأییدنشده.
+> معیار کار مهندسی، پیاده‌سازی قابل‌بررسی، تصمیم‌های فنی مستند و نتیجه‌ای است که بتوان آن را آزمود و ارزیابی کرد.
 
 ## راه‌های ارتباطی
 
