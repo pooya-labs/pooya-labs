@@ -44,7 +44,18 @@ A selection of projects I design and develop. Each repository documents its curr
 | **AuraPulse** | A market-data dashboard and local paper-trading simulator, separating public quotes from illustrative demo data. | [Explore ↗](https://github.com/pooya-labs/aurapulse) |
 | **NexusCanvas** | A visual system-architecture workspace for modeling service topologies, inspecting structural risks, and exporting starter artifacts. | [Explore ↗](https://github.com/pooya-labs/nexus-canvas) |
 | **LuminaGlass** | A browser-native lab for optical interface effects, SVG/Canvas rendering, and audio processing. | [Explore ↗](https://github.com/pooya-labs/lumina-glass) |
-| **Salon Booking** | A mobile-first appointment-booking product concept with Persian RTL, Jalali dates, and a planned secure owner workspace. | [Explore ↗](https://github.com/pooya-labs/salon-booking) |
+| **Salon Booking** | A live v1.0.0 appointment-booking system with Persian RTL, Jalali dates, an owner workspace, Apps Script + Sheets backend, and Firebase manager notifications. | [Explore ↗](https://github.com/pooya-labs/salon-booking) |
+| **Pooya Labs Platform** | The primary bilingual portfolio, with eight case studies, project evidence, architecture diagrams, and a novels library. Currently a pre-release portfolio draft. | [Explore ↗](https://github.com/pooya-labs/pooya-labs-platform) |
+
+## Latest portfolio update — 8 November 2026
+
+The project directory now reflects the current nine-project ecosystem and its latest release states: ORBIT v1.0.0 is stable within its documented demo scope, GlobalCart v1.0.0 is a marketplace demo, Salon Booking v1.0.0 is live and maintained, and AetherFlow remains experimental. Pooya Labs Platform is identified as the primary bilingual portfolio; it remains in pre-release review rather than being presented as a finished production product.
+
+## Portfolio ownership
+
+<p align="center"><a href="https://pooya-labs.github.io/pooya-labs-platform/"><img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram.webp" alt="Pooya Labs Platform monogram" width="64" /></a></p>
+
+**Portfolio ecosystem and project ownership: [Pooya Labs Platform](https://pooya-labs.github.io/pooya-labs-platform/).** Created and maintained by **Pooya Goodarzi**.
 
 ## Engineering interests
 
@@ -89,7 +100,8 @@ A selection of projects I design and develop. Each repository documents its curr
 | **AuraPulse** | داشبورد داده‌های بازار و شبیه‌ساز معاملات آزمایشی در مرورگر، با تفکیک داده‌های عمومی از داده‌های نمایشی. [مشاهده مخزن ↗](https://github.com/pooya-labs/aurapulse) |
 | **NexusCanvas** | محیط بصری طراحی معماری سیستم برای مدل‌سازی ارتباط سرویس‌ها، بررسی ریسک‌های ساختاری و خروجی‌گرفتن از طرح معماری. [مشاهده مخزن ↗](https://github.com/pooya-labs/nexus-canvas) |
 | **LuminaGlass** | آزمایشگاه تحت وب برای جلوه‌های بصری، رندر SVG و Canvas و پردازش صوت در مرورگر. [مشاهده مخزن ↗](https://github.com/pooya-labs/lumina-glass) |
-| **Salon Booking** | ایده محصول رزرو نوبت با طراحی موبایل‌محور، پشتیبانی از فارسی و راست‌چین، تاریخ شمسی و پنل مدیریت امن در مسیر توسعه. [مشاهده مخزن ↗](https://github.com/pooya-labs/salon-booking) |
+| **Salon Booking** | سامانهٔ رزرو نوبت نسخهٔ ۱.۰.۰ که منتشر شده و فعال است؛ با پنل مدیریت، backend مبتنی بر Apps Script و Sheets و اعلان مدیر از Firebase. [مشاهده مخزن ↗](https://github.com/pooya-labs/salon-booking) |
+| **Pooya Labs Platform** | پورتفولیوی اصلی دوزبانه با هشت مطالعهٔ موردی، شواهد پروژه‌ها، نمودارهای معماری و کتابخانهٔ رمان‌ها؛ همچنان در مرحلهٔ پیش‌انتشار و بازبینی نهایی است. [مشاهده مخزن ↗](https://github.com/pooya-labs/pooya-labs-platform) |
 
 ## زمینه‌های مورد علاقه
 
@@ -115,3 +127,13 @@ A selection of projects I design and develop. Each repository documents its curr
 ساختن، آزمایش‌کردن و بهترکردن؛ قدم‌به‌قدم.
 
 </div>
+
+## آخرین به‌روزرسانی پورتفولیو — ۸ نوامبر ۲۰۲۶
+
+فهرست پروژه‌ها با وضعیت فعلی مجموعهٔ ۹ پروژه‌ای هماهنگ شد: ORBIT نسخهٔ پایدار ۱.۰.۰ را در محدودهٔ دموی مستندشده دارد، GlobalCart نسخهٔ نمایشی ۱.۰.۰ است، Salon Booking نسخهٔ ۱.۰.۰ منتشرشده و فعال دارد و AetherFlow همچنان آزمایشی است. پلتفرم پویا لبز به‌عنوان پورتفولیوی اصلی دوزبانه معرفی شده، اما هنوز در مرحلهٔ پیش‌انتشار و بازبینی قرار دارد.
+
+## مالکیت پورتفولیو
+
+<p align="center"><a href="https://pooya-labs.github.io/pooya-labs-platform/"><img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram.webp" alt="نشان مونوگرام پویا لبز" width="64" /></a></p>
+
+**مالک و نگه‌دارندهٔ اکوسیستم پروژه‌ها: [پلتفرم پویا لبز](https://pooya-labs.github.io/pooya-labs-platform/)** · بنیان‌گذار و توسعه‌دهنده: **پویا گودرزی**.
