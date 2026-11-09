@@ -53,9 +53,9 @@ The project directory now reflects the current nine-project ecosystem and its la
 
 ## Portfolio ownership
 
-<p align="center"><a href="https://pooya-labs.github.io/pooya-labs-platform/"><img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram-tile.svg" alt="Pooya Labs Platform monogram" width="96" /></a></p>
+<p align="center"><a href="https://pooya-labs.github.io/pooya-labs-platform/" aria-label="Pooya Labs Platform — official portfolio"><img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram-tile.svg" alt="Pooya Monogram on a black rounded-square tile" width="96" /></a></p>
 
-**Portfolio ecosystem and project ownership: [Pooya Labs Platform](https://pooya-labs.github.io/pooya-labs-platform/).** Created and maintained by **Pooya Goodarzi**.
+**Personal owner and creator: Pooya Goodarzi.** [Pooya Labs Platform](https://pooya-labs.github.io/pooya-labs-platform/) is the official portfolio and project gateway, not a separate legal owner. This attribution does not grant an open-source license.
 
 ## Engineering interests
 
@@ -134,6 +134,6 @@ The project directory now reflects the current nine-project ecosystem and its la
 
 ## مالکیت پورتفولیو
 
-<p align="center"><a href="https://pooya-labs.github.io/pooya-labs-platform/"><img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram-tile.svg" alt="نشان مونوگرام پویا لبز" width="96" /></a></p>
+<p align="center"><a href="https://pooya-labs.github.io/pooya-labs-platform/" aria-label="درگاه رسمی پلتفرم پویا لبز"><img src="https://raw.githubusercontent.com/pooya-labs/pooya-labs-platform/main/apps/platform/public/brand/pooya-monogram-tile.svg" alt="مونوگرام پویا در قاب مربعی مشکی با گوشه‌های گرد" width="96" /></a></p>
 
-**مالک و نگه‌دارندهٔ اکوسیستم پروژه‌ها: [پلتفرم پویا لبز](https://pooya-labs.github.io/pooya-labs-platform/)** · بنیان‌گذار و توسعه‌دهنده: **پویا گودرزی**.
+**مالک شخصی و پدیدآورنده: پویا گودرزی.** [پلتفرم پویا لبز](https://pooya-labs.github.io/pooya-labs-platform/) درگاه رسمی معرفی پورتفولیو و پروژه‌هاست و مالک حقوقی جداگانه‌ای نیست. این انتساب به‌تنهایی مجوز متن‌باز اعطا نمی‌کند.
